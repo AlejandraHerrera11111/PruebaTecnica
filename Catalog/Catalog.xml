@@ -1,0 +1,521 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ArrayOfCategory xmlns:i="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://schemas.datacontract.org/2004/07/Catalog">
+  <Category>
+    <Description>Soft drinks, coffees, teas, beers, and ales</Description>
+    <Id>1</Id>
+    <Name>Beverages</Name>
+    <Products>
+      <Product>
+        <CategoryId>1</CategoryId>
+        <Id>1</Id>
+        <Name>Chai</Name>
+        <Price>18</Price>
+      </Product>
+      <Product>
+        <CategoryId>1</CategoryId>
+        <Id>2</Id>
+        <Name>Chang</Name>
+        <Price>19</Price>
+      </Product>
+      <Product>
+        <CategoryId>1</CategoryId>
+        <Id>24</Id>
+        <Name>Guaraná Fantástica</Name>
+        <Price>45</Price>
+      </Product>
+      <Product>
+        <CategoryId>1</CategoryId>
+        <Id>34</Id>
+        <Name>Sasquatch Ale</Name>
+        <Price>14</Price>
+      </Product>
+      <Product>
+        <CategoryId>1</CategoryId>
+        <Id>35</Id>
+        <Name>Steeleye Stout</Name>
+        <Price>18</Price>
+      </Product>
+      <Product>
+        <CategoryId>1</CategoryId>
+        <Id>38</Id>
+        <Name>Côte de Blaye</Name>
+        <Price>2635</Price>
+      </Product>
+      <Product>
+        <CategoryId>1</CategoryId>
+        <Id>39</Id>
+        <Name>Chartreuse verte</Name>
+        <Price>18</Price>
+      </Product>
+      <Product>
+        <CategoryId>1</CategoryId>
+        <Id>43</Id>
+        <Name>Ipoh Coffee</Name>
+        <Price>46</Price>
+      </Product>
+      <Product>
+        <CategoryId>1</CategoryId>
+        <Id>67</Id>
+        <Name>Laughing Lumberjack Lager</Name>
+        <Price>14</Price>
+      </Product>
+      <Product>
+        <CategoryId>1</CategoryId>
+        <Id>70</Id>
+        <Name>Outback Lager</Name>
+        <Price>15</Price>
+      </Product>
+      <Product>
+        <CategoryId>1</CategoryId>
+        <Id>75</Id>
+        <Name>Rhönbräu Klosterbier</Name>
+        <Price>775</Price>
+      </Product>
+      <Product>
+        <CategoryId>1</CategoryId>
+        <Id>76</Id>
+        <Name>Lakkalikööri</Name>
+        <Price>18</Price>
+      </Product>
+    </Products>
+  </Category>
+  <Category>
+    <Description>Sweet and savory sauces, relishes, spreads, and seasonings</Description>
+    <Id>2</Id>
+    <Name>Condiments</Name>
+    <Products>
+      <Product>
+        <CategoryId>2</CategoryId>
+        <Id>3</Id>
+        <Name>Aniseed Syrup</Name>
+        <Price>10</Price>
+      </Product>
+      <Product>
+        <CategoryId>2</CategoryId>
+        <Id>4</Id>
+        <Name>Chef Anton's Cajun Seasoning</Name>
+        <Price>22</Price>
+      </Product>
+      <Product>
+        <CategoryId>2</CategoryId>
+        <Id>5</Id>
+        <Name>Chef Anton's Gumbo Mix</Name>
+        <Price>2135</Price>
+      </Product>
+      <Product>
+        <CategoryId>2</CategoryId>
+        <Id>6</Id>
+        <Name>Grandma's Boysenberry Spread</Name>
+        <Price>25</Price>
+      </Product>
+      <Product>
+        <CategoryId>2</CategoryId>
+        <Id>8</Id>
+        <Name>Northwoods Cranberry Sauce</Name>
+        <Price>40</Price>
+      </Product>
+      <Product>
+        <CategoryId>2</CategoryId>
+        <Id>15</Id>
+        <Name>Genen Shouyu</Name>
+        <Price>155</Price>
+      </Product>
+      <Product>
+        <CategoryId>2</CategoryId>
+        <Id>44</Id>
+        <Name>Gula Malacca</Name>
+        <Price>1945</Price>
+      </Product>
+      <Product>
+        <CategoryId>2</CategoryId>
+        <Id>61</Id>
+        <Name>Sirop d'érable</Name>
+        <Price>285</Price>
+      </Product>
+      <Product>
+        <CategoryId>2</CategoryId>
+        <Id>63</Id>
+        <Name>Vegie-spread</Name>
+        <Price>439</Price>
+      </Product>
+      <Product>
+        <CategoryId>2</CategoryId>
+        <Id>65</Id>
+        <Name>Louisiana Fiery Hot Pepper Sauce</Name>
+        <Price>2105</Price>
+      </Product>
+      <Product>
+        <CategoryId>2</CategoryId>
+        <Id>66</Id>
+        <Name>Louisiana Hot Spiced Okra</Name>
+        <Price>17</Price>
+      </Product>
+      <Product>
+        <CategoryId>2</CategoryId>
+        <Id>77</Id>
+        <Name>Original Frankfurter grüne Soße</Name>
+        <Price>13</Price>
+      </Product>
+    </Products>
+  </Category>
+  <Category>
+    <Description>Desserts, candies, and sweet breads</Description>
+    <Id>3</Id>
+    <Name>Confections</Name>
+    <Products>
+      <Product>
+        <CategoryId>3</CategoryId>
+        <Id>16</Id>
+        <Name>Pavlova</Name>
+        <Price>1745</Price>
+      </Product>
+      <Product>
+        <CategoryId>3</CategoryId>
+        <Id>19</Id>
+        <Name>Teatime Chocolate Biscuits</Name>
+        <Price>92</Price>
+      </Product>
+      <Product>
+        <CategoryId>3</CategoryId>
+        <Id>20</Id>
+        <Name>Sir Rodney's Marmalade</Name>
+        <Price>81</Price>
+      </Product>
+      <Product>
+        <CategoryId>3</CategoryId>
+        <Id>21</Id>
+        <Name>Sir Rodney's Scones</Name>
+        <Price>10</Price>
+      </Product>
+      <Product>
+        <CategoryId>3</CategoryId>
+        <Id>25</Id>
+        <Name>NuNuCa Nuß-Nougat-Creme</Name>
+        <Price>14</Price>
+      </Product>
+      <Product>
+        <CategoryId>3</CategoryId>
+        <Id>26</Id>
+        <Name>Gumbär Gummibärchen</Name>
+        <Price>3123</Price>
+      </Product>
+      <Product>
+        <CategoryId>3</CategoryId>
+        <Id>27</Id>
+        <Name>Schoggi Schokolade</Name>
+        <Price>439</Price>
+      </Product>
+      <Product>
+        <CategoryId>3</CategoryId>
+        <Id>47</Id>
+        <Name>Zaanse koeken</Name>
+        <Price>95</Price>
+      </Product>
+      <Product>
+        <CategoryId>3</CategoryId>
+        <Id>48</Id>
+        <Name>Chocolade</Name>
+        <Price>1275</Price>
+      </Product>
+      <Product>
+        <CategoryId>3</CategoryId>
+        <Id>49</Id>
+        <Name>Maxilaku</Name>
+        <Price>20</Price>
+      </Product>
+      <Product>
+        <CategoryId>3</CategoryId>
+        <Id>50</Id>
+        <Name>Valkoinen suklaa</Name>
+        <Price>1625</Price>
+      </Product>
+      <Product>
+        <CategoryId>3</CategoryId>
+        <Id>62</Id>
+        <Name>Tarte au sucre</Name>
+        <Price>493</Price>
+      </Product>
+      <Product>
+        <CategoryId>3</CategoryId>
+        <Id>68</Id>
+        <Name>Scottish Longbreads</Name>
+        <Price>125</Price>
+      </Product>
+    </Products>
+  </Category>
+  <Category>
+    <Description>Cheeses</Description>
+    <Id>4</Id>
+    <Name>Dairy Products</Name>
+    <Products>
+      <Product>
+        <CategoryId>4</CategoryId>
+        <Id>11</Id>
+        <Name>Queso Cabrales</Name>
+        <Price>21</Price>
+      </Product>
+      <Product>
+        <CategoryId>4</CategoryId>
+        <Id>12</Id>
+        <Name>Queso Manchego La Pastora</Name>
+        <Price>38</Price>
+      </Product>
+      <Product>
+        <CategoryId>4</CategoryId>
+        <Id>31</Id>
+        <Name>Gorgonzola Telino</Name>
+        <Price>125</Price>
+      </Product>
+      <Product>
+        <CategoryId>4</CategoryId>
+        <Id>32</Id>
+        <Name>Mascarpone Fabioli</Name>
+        <Price>32</Price>
+      </Product>
+      <Product>
+        <CategoryId>4</CategoryId>
+        <Id>33</Id>
+        <Name>Geitost</Name>
+        <Price>25</Price>
+      </Product>
+      <Product>
+        <CategoryId>4</CategoryId>
+        <Id>59</Id>
+        <Name>Raclette Courdavault</Name>
+        <Price>55</Price>
+      </Product>
+      <Product>
+        <CategoryId>4</CategoryId>
+        <Id>60</Id>
+        <Name>Camembert Pierrot</Name>
+        <Price>34</Price>
+      </Product>
+      <Product>
+        <CategoryId>4</CategoryId>
+        <Id>69</Id>
+        <Name>Gudbrandsdalsost</Name>
+        <Price>36</Price>
+      </Product>
+      <Product>
+        <CategoryId>4</CategoryId>
+        <Id>71</Id>
+        <Name>Flotemysost</Name>
+        <Price>215</Price>
+      </Product>
+      <Product>
+        <CategoryId>4</CategoryId>
+        <Id>72</Id>
+        <Name>Mozzarella di Giovanni</Name>
+        <Price>348</Price>
+      </Product>
+    </Products>
+  </Category>
+  <Category>
+    <Description>Breads, crackers, pasta, and cereal</Description>
+    <Id>5</Id>
+    <Name>Grains/Cereals</Name>
+    <Products>
+      <Product>
+        <CategoryId>5</CategoryId>
+        <Id>22</Id>
+        <Name>Gustaf's Knäckebröd</Name>
+        <Price>21</Price>
+      </Product>
+      <Product>
+        <CategoryId>5</CategoryId>
+        <Id>23</Id>
+        <Name>Tunnbröd</Name>
+        <Price>9</Price>
+      </Product>
+      <Product>
+        <CategoryId>5</CategoryId>
+        <Id>42</Id>
+        <Name>Singaporean Hokkien Fried Mee</Name>
+        <Price>14</Price>
+      </Product>
+      <Product>
+        <CategoryId>5</CategoryId>
+        <Id>52</Id>
+        <Name>Filo Mix</Name>
+        <Price>7</Price>
+      </Product>
+      <Product>
+        <CategoryId>5</CategoryId>
+        <Id>56</Id>
+        <Name>Gnocchi di nonna Alice</Name>
+        <Price>38</Price>
+      </Product>
+      <Product>
+        <CategoryId>5</CategoryId>
+        <Id>57</Id>
+        <Name>Ravioli Angelo</Name>
+        <Price>195</Price>
+      </Product>
+      <Product>
+        <CategoryId>5</CategoryId>
+        <Id>64</Id>
+        <Name>Wimmers gute Semmelknödel</Name>
+        <Price>3325</Price>
+      </Product>
+    </Products>
+  </Category>
+  <Category>
+    <Description>Prepared meats</Description>
+    <Id>6</Id>
+    <Name>Meat/Poultry</Name>
+    <Products>
+      <Product>
+        <CategoryId>6</CategoryId>
+        <Id>9</Id>
+        <Name>Mishi Kobe Niku</Name>
+        <Price>97</Price>
+      </Product>
+      <Product>
+        <CategoryId>6</CategoryId>
+        <Id>17</Id>
+        <Name>Alice Mutton</Name>
+        <Price>39</Price>
+      </Product>
+      <Product>
+        <CategoryId>6</CategoryId>
+        <Id>29</Id>
+        <Name>Thüringer Rostbratwurst</Name>
+        <Price>12379</Price>
+      </Product>
+      <Product>
+        <CategoryId>6</CategoryId>
+        <Id>53</Id>
+        <Name>Perth Pasties</Name>
+        <Price>328</Price>
+      </Product>
+      <Product>
+        <CategoryId>6</CategoryId>
+        <Id>54</Id>
+        <Name>Tourtière</Name>
+        <Price>745</Price>
+      </Product>
+      <Product>
+        <CategoryId>6</CategoryId>
+        <Id>55</Id>
+        <Name>Pâté chinois</Name>
+        <Price>24</Price>
+      </Product>
+    </Products>
+  </Category>
+  <Category>
+    <Description>Dried fruit and bean curd</Description>
+    <Id>7</Id>
+    <Name>Produce</Name>
+    <Products>
+      <Product>
+        <CategoryId>7</CategoryId>
+        <Id>7</Id>
+        <Name>Uncle Bob's Organic Dried Pears</Name>
+        <Price>30</Price>
+      </Product>
+      <Product>
+        <CategoryId>7</CategoryId>
+        <Id>14</Id>
+        <Name>Tofu</Name>
+        <Price>2325</Price>
+      </Product>
+      <Product>
+        <CategoryId>7</CategoryId>
+        <Id>28</Id>
+        <Name>Rössle Sauerkraut</Name>
+        <Price>456</Price>
+      </Product>
+      <Product>
+        <CategoryId>7</CategoryId>
+        <Id>51</Id>
+        <Name>Manjimup Dried Apples</Name>
+        <Price>53</Price>
+      </Product>
+      <Product>
+        <CategoryId>7</CategoryId>
+        <Id>74</Id>
+        <Name>Longlife Tofu</Name>
+        <Price>10</Price>
+      </Product>
+    </Products>
+  </Category>
+  <Category>
+    <Description>Seaweed and fish</Description>
+    <Id>8</Id>
+    <Name>Seafood</Name>
+    <Products>
+      <Product>
+        <CategoryId>8</CategoryId>
+        <Id>10</Id>
+        <Name>Ikura</Name>
+        <Price>31</Price>
+      </Product>
+      <Product>
+        <CategoryId>8</CategoryId>
+        <Id>13</Id>
+        <Name>Konbu</Name>
+        <Price>6</Price>
+      </Product>
+      <Product>
+        <CategoryId>8</CategoryId>
+        <Id>18</Id>
+        <Name>Carnarvon Tigers</Name>
+        <Price>625</Price>
+      </Product>
+      <Product>
+        <CategoryId>8</CategoryId>
+        <Id>30</Id>
+        <Name>Nord-Ost Matjeshering</Name>
+        <Price>2589</Price>
+      </Product>
+      <Product>
+        <CategoryId>8</CategoryId>
+        <Id>36</Id>
+        <Name>Inlagd Sill</Name>
+        <Price>19</Price>
+      </Product>
+      <Product>
+        <CategoryId>8</CategoryId>
+        <Id>37</Id>
+        <Name>Gravad lax</Name>
+        <Price>26</Price>
+      </Product>
+      <Product>
+        <CategoryId>8</CategoryId>
+        <Id>40</Id>
+        <Name>Boston Crab Meat</Name>
+        <Price>184</Price>
+      </Product>
+      <Product>
+        <CategoryId>8</CategoryId>
+        <Id>41</Id>
+        <Name>Jack's New England Clam Chowder</Name>
+        <Price>965</Price>
+      </Product>
+      <Product>
+        <CategoryId>8</CategoryId>
+        <Id>45</Id>
+        <Name>Rogede sild</Name>
+        <Price>95</Price>
+      </Product>
+      <Product>
+        <CategoryId>8</CategoryId>
+        <Id>46</Id>
+        <Name>Spegesild</Name>
+        <Price>12</Price>
+      </Product>
+      <Product>
+        <CategoryId>8</CategoryId>
+        <Id>58</Id>
+        <Name>Escargots de Bourgogne</Name>
+        <Price>1325</Price>
+      </Product>
+      <Product>
+        <CategoryId>8</CategoryId>
+        <Id>73</Id>
+        <Name>Röd Kaviar</Name>
+        <Price>15</Price>
+      </Product>
+    </Products>
+  </Category>
+</ArrayOfCategory>

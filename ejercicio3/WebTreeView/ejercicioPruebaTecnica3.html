@@ -1,0 +1,42 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+</head>
+<body>
+        <h1>Tree View</h1>
+        <div id="treeView"></div> 
+    
+        <script>
+
+            function buildList(items) {
+                const ul = document.createElement('ul');
+            
+                items.forEach(item => {
+                    const li = document.createElement('li');
+                    li.textContent = item.Name;
+            
+                    if (item.Children && item.Children.length > 0) {
+                        li.appendChild(buildList(item.Children));
+                    }
+            
+                    ul.appendChild(li);
+                });
+            
+                return ul;
+            }
+            
+            fetch('Items.json')
+                .then(response => response.json())
+                .then(data => {
+                    const treeView = document.getElementById('treeView');
+                    const list = buildList(data);
+                    treeView.appendChild(list);
+                })
+                .catch(error => console.error('Error al cargar el archivo JSON:', error));
+            </script>
+            
+</body>
+</html>
